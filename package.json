@@ -87,7 +87,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/azmenak/react-stripe-checkout.git"
+    "url": "https://github.com/blackboxsol/react-stripe-checkout.git"
   },
   "keywords": [
     "react",
@@ -97,12 +97,12 @@
     "loaded",
     "easy"
   ],
-  "author": "Adam Zmenak <adam.zmenak@gmail.com> (http://azmenak.com)",
+  "author": "Monk <ifixprograms@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/azmenak/react-stripe-checkout/issues"
+    "url": "https://github.com/blackboxsol/react-stripe-checkout/issues"
   },
-  "homepage": "https://github.com/azmenak/react-stripe-checkout",
+  "homepage": "https://github.com/blackboxsol/react-stripe-checkout",
   "dependencies": {
     "prop-types": "^15.5.8"
   },
